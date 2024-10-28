@@ -1,0 +1,10 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.calculator {
+    width: 100vw;
+    height: 100vh;
+}

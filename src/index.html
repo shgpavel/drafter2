@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>drafter2 instance</title>
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/init.js"></script>
+  <script
+    src="https://www.desmos.com/api/v1.8/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6">
+    </script>
+</head>
+
+<body>
+  <div class="calculator"></div>
+  <script>
+    var elt = document.getElementsByClassName('calculator')[0];
+    var calculator = Desmos.GraphingCalculator(elt);
+    
+  </script>
+</body>
+
+</html>
