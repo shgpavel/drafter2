@@ -1,3 +1,5 @@
+> Moved to https://git.sr.ht/~shgpavel/drafter2
+
 # WIP (Not even close)
 
 ## drafter2
